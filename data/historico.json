@@ -1,0 +1,12 @@
+[
+    {
+        "data": "2026-11-19 01:07:41",
+        "origem": "pergunta",
+        "pergunta": "Como faço o cartão do SUS?",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 11.0
+    }
+]
