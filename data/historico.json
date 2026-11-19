@@ -1,1 +1,132 @@
-[]
+[
+    {
+        "data": "2026-11-19 01:30:36",
+        "origem": "pergunta",
+        "pergunta": "qual documento preciso pra ser atendido no sus?",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 40.6
+    },
+    {
+        "data": "2026-11-19 01:33:42",
+        "origem": "pergunta",
+        "pergunta": "3",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 4,
+        "tempo_segundos": 183.3
+    },
+    {
+        "data": "2026-11-19 01:34:11",
+        "origem": "pergunta",
+        "pergunta": "meu remedio acabou e ta muito caro",
+        "id_orientacao": 3,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 26.8
+    },
+    {
+        "data": "2026-11-19 01:34:40",
+        "origem": "pergunta",
+        "pergunta": "quero viajar de onibus entre estados",
+        "id_orientacao": 8,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 23.9
+    },
+    {
+        "data": "2026-11-19 01:34:59",
+        "origem": "categoria",
+        "pergunta": "[Transporte] Andar de graça no ônibus da cidade",
+        "id_orientacao": 7,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 12.6
+    },
+    {
+        "data": "2026-11-19 01:35:15",
+        "origem": "categoria",
+        "pergunta": "[Direitos] Fazer a prova de vida do INSS",
+        "id_orientacao": 11,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 9.2
+    },
+    {
+        "data": "2026-11-19 14:22:33",
+        "origem": "pergunta",
+        "pergunta": "Gostaria de saber como funciona o transporte gratuito para o deslocamento para unidades do SUS?",
+        "id_orientacao": 7,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 13.8
+    },
+    {
+        "data": "2026-11-19 14:22:45",
+        "origem": "pergunta",
+        "pergunta": "Como funciona a fila de prioridades para procedimentos e consultas dentro do SUS, a partir dos 60 anos?",
+        "id_orientacao": 12,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 2,
+        "tempo_segundos": 10.1
+    },
+    {
+        "data": "2026-11-19 14:22:59",
+        "origem": "pergunta",
+        "pergunta": "Quais são todos os direitos que o SUS pode me oferecer? Eu tenho 82 anos.",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 12.9
+    },
+    {
+        "data": "2026-11-19 14:23:02",
+        "origem": "pergunta",
+        "pergunta": "Acabei perdendo meu cartão do SUS, como eu faço para conseguir meu número?",
+        "id_orientacao": 1,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.1
+    },
+    {
+        "data": "2026-11-19 16:19:08",
+        "origem": "pergunta",
+        "pergunta": "Posso ir só com meu cpf em um posto de saúde?",
+        "id_orientacao": 4,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.1
+    },
+    {
+        "data": "2026-11-19 16:19:11",
+        "origem": "pergunta",
+        "pergunta": "como faço pra andar de ônibus de graça?",
+        "id_orientacao": 7,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.1
+    },
+    {
+        "data": "2026-11-19 16:19:14",
+        "origem": "pergunta",
+        "pergunta": "como posso fazer a prova de vida?",
+        "id_orientacao": 11,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 2.1
+    }
+]

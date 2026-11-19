@@ -1,0 +1,14 @@
+data;origem;pergunta;id_orientacao;encontrou;ajudou;tentativas;tempo_segundos
+2026-11-19 01:30:36;pergunta;qual documento preciso pra ser atendido no sus?;1;True;True;1;40.6
+2026-11-19 01:33:42;pergunta;3;;False;False;4;183.3
+2026-11-19 01:34:11;pergunta;meu remedio acabou e ta muito caro;3;True;True;1;26.8
+2026-11-19 01:34:40;pergunta;quero viajar de onibus entre estados;8;True;True;1;23.9
+2026-11-19 01:34:59;categoria;[Transporte] Andar de graça no ônibus da cidade;7;True;True;1;12.6
+2026-11-19 01:35:15;categoria;[Direitos] Fazer a prova de vida do INSS;11;True;True;1;9.2
+2026-11-19 14:22:33;pergunta;Gostaria de saber como funciona o transporte gratuito para o deslocamento para unidades do SUS?;7;True;True;2;13.8
+2026-11-19 14:22:45;pergunta;Como funciona a fila de prioridades para procedimentos e consultas dentro do SUS, a partir dos 60 anos?;12;True;True;2;10.1
+2026-11-19 14:22:59;pergunta;Quais são todos os direitos que o SUS pode me oferecer? Eu tenho 82 anos.;1;True;True;1;12.9
+2026-11-19 14:23:02;pergunta;Acabei perdendo meu cartão do SUS, como eu faço para conseguir meu número?;1;True;True;1;2.1
+2026-11-19 16:19:08;pergunta;Posso ir só com meu cpf em um posto de saúde?;4;True;True;1;2.1
+2026-11-19 16:19:11;pergunta;como faço pra andar de ônibus de graça?;7;True;True;1;2.1
+2026-11-19 16:19:14;pergunta;como posso fazer a prova de vida?;11;True;True;1;2.1
