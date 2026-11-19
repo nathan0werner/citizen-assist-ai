@@ -134,10 +134,13 @@ class Assistente:
 
             if not resultados or resultados[0][0] < MINIMO_ENCONTRADO:
                 print("\nNão encontrei uma orientação para essa dúvida.")
-                print("Tente outras palavras ou navegue por uma destas categorias:")
-                for categoria in self.base.categorias():
-                    print(f"  - {categoria}")
-                print()
+                print("Categorias disponíveis: " + ", ".join(self.base.categorias()))
+                # melhoria do teste: a pessoa digitava o nome/número da categoria aqui e ficava presa
+                if ler_sim_nao("Quer escolher pela lista de categorias? (s/n): "):
+                    self.registrar("pergunta", ultima_pergunta, None, False, False, tentativas, inicio)
+                    self.navegar()
+                    return
+                print("Tudo bem, tente escrever a dúvida com outras palavras.\n")
                 continue
 
             encontrou = True

@@ -161,7 +161,8 @@
             "interestadual",
             "passagem",
             "passagem gratuita",
-            "rodoviaria"
+            "rodoviaria",
+            "desconto"
         ],
         "resposta": "Em ônibus entre estados, cada viagem reserva 2 vagas gratuitas para pessoas com 60 anos ou mais e renda de até 2 salários mínimos. Se essas vagas acabarem, a pessoa tem pelo menos 50% de desconto na passagem. Peça o bilhete na bilheteria com antecedência.",
         "documentos": [
