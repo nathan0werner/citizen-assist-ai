@@ -155,4 +155,4 @@ Testamos com **3 pessoas de fora da equipe**, em **13 atendimentos**. Não regis
 
 ## Vídeo técnico
 
-PREENCHER (link do YouTube, não listado)
+https://youtu.be/g0rfiQ-8NEo
